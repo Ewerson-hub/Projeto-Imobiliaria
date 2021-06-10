@@ -1,0 +1,17 @@
+CREATE DATABASE imobiliaria
+
+CREATE TABLE usuario(
+	id int AUTO_INCRMENT,
+	login varchar(50),
+	pass varchar(50),
+
+	PRIMARY KEY(id)
+)
+
+CREATE TABLE bairro(
+	id int AUTO_INCRMENT,
+	name varchar(50),
+	percent double,
+
+	PRIMARY KEY(id)	
+)
