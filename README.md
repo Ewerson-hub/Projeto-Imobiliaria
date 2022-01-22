@@ -1,4 +1,4 @@
-# Projeto Imobiliária :office:
+# Projeto Imobiliária :office: -PROJETO INTERROMPIDO TEMPORARIAMENTE
 
 Projeto desenvolvido como forma de obtenção de nota do 3° trimestre do 2° ano do curso de técnico em informática na disciplina Desenvolvimento de Sistemas do IFNMG - Campus Arinos no ano de 2019.
 
